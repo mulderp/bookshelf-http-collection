@@ -1,0 +1,21 @@
+{
+  "name": "bookshelf-http-collection",
+  "version": "0.0.0",
+  "description": "A collection to fetch JSON from the server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "bluebird": "~1.2.3",
+    "request": "~2.34.0",
+    "bookshelf": "~0.6.10",
+    "backbone": "~1.1.2",
+    "trigger-then": "~0.3.0",
+    "express": "~4.1.0",
+    "morgan": "~1.0.0"
+  }
+}
